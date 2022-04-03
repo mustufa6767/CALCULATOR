@@ -1,0 +1,29 @@
+.wrap{
+    width: 400px;
+    margin: auto;
+    height: auto;
+    padding: 15px;
+    background-color: black;
+}
+#yyy{
+    width: 100%;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+input{
+    width: 89px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+#del{
+    width: 100%;
+}
+body{
+    background-color:  hsl(204, 100%, 50%)
+}
+    
